@@ -11,6 +11,14 @@
 }
 
 .item {
+  cursor: pointer;
   display: flex;
   justify-content: space-between;
+}
+
+.button {
+  padding: 10px 12px;
+  background-color: cadetblue;
+  color: azure;
+  cursor: pointer;
 }
